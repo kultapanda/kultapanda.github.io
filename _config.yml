@@ -3,3 +3,4 @@ plugins:
 - jekyll-remote-theme
 title: Foo Bar
 description: This is a test for me and foo.
+markdown: kramdown
