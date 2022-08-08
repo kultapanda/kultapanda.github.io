@@ -4,3 +4,5 @@ plugins:
 title: Foo Bar
 description: This is a test for me and foo.
 markdown: kramdown
+
+theme: jekyll-theme-hacker
